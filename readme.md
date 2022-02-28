@@ -26,10 +26,10 @@ pip install selenium
 from selenium import webdriver
 
 #设置自动化打开的浏览器访问网址
-url = 'https://www.chenxiaohei.net'
+url = 'https://www.baidu.com'
 
 #设置谷歌浏览器driver的目录所在
-path = '/Users/chengf/Documents/Python/Project/selenium_chrome/chromedriver'
+path = './chromedriver'
 
 browser = webdriver.Chrome(executable_path=path)
 
