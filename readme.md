@@ -1,5 +1,10 @@
 > 说明： 本教程适用于Linux、mac、Windows
 
+## 学习教程：
+1. https://blog.csdn.net/Haven200/article/details/103208795
+
+
+
 ## 环境要求
 
 1. python
